@@ -376,6 +376,7 @@ img {
 	}
 	.nav__menu {
 		margin-left: auto;
+		padding-block: 0;
 	}
 	.nav__list {
 		display: flex;
